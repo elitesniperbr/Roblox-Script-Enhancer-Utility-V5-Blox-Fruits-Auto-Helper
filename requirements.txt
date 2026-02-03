@@ -1,0 +1,3 @@
+tkinter
+PyQt5>=5.15
+pillow>=9.0
